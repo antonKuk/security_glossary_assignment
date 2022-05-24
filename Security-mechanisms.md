@@ -18,10 +18,10 @@ good network security system uses a combination of different types of network se
 * policies for email and browser usage, also for remote access
 * antivirus and monitoring software
 * strong unique passwords, keeping them in safe place and changing them periodically
-* using HTTPS protocols over HTTP
-* using encryption and signatures where necessary
-* using VPN and proxy servers
-* having critical software up to date
+* HTTPS protocols over HTTP
+* encryption and signatures where necessary
+* VPN and proxy servers
+* critical software updates
 
 
 
