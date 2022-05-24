@@ -14,6 +14,16 @@
 
 ### Common security measures
 good network security system uses a combination of different types of network security tools as a layered defense system
+* firewalls (software and/or hardware)
+* policies for email and browser usage, also for remote access
+* antivirus and monitoring software
+* strong unique passwords, keeping them in safe place and changing them periodically
+* using HTTPS protocols over HTTP
+* using encryption and signatures where necessary
+* using VPN and proxy servers
+* having critical software up to date
+
+
 
 
  * **Digital Signature** - this mechanism is used to validate the authenticity and integrity of anything digital. They use public key cryptography, which generates two linked pair of keys, one private and one public. The creator of the digital signature uses a private key to encrypt the data, while the signer uses a public key to decrypt the data.
