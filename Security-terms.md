@@ -5,7 +5,7 @@
 * ### out of band authentication (OOB)
     Utilizing separate channels. For example in order to login to Steam or PayPal account user has to receive an access code, sent to his/her mobile device
 * ### token authentication
-   Utilizing magnetic card or dongle. Examples: efpost, RF-ID chip
+   Utilizing magnetic card or dongle. Examples: efpost card, RF-ID chip
 * ### transaction authentication
 
 
