@@ -7,5 +7,8 @@
 * ### token authentication
    Utilizing magnetic card or dongle. Examples: efpost card, RF-ID chip
 * ### transaction authentication
+   To compare user's current transactions with known data about user in order to find possible security warnings and unusual activities. This is used by all banks. Also similar user's online behavior analysis are widely used on many platforms (Facebook, YouTube etc) 
+* ### Web Security Authentication
+   
 
 
