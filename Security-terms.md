@@ -1,5 +1,6 @@
 * ### multi-factor authentication
     Verifying identity with two or more independent sources. For example ATM’s: a card (physical token) and a PIN (something known)
+reference: ["Top 5 Identity Verification Methods"](https://www.microbilt.com/news/article/top-5-identity-verification-methods)
 * ### bio-metrics
     Documented person's physical attributes, used in verification (scanner and appropriate software required)
 * ### out of band authentication (OOB)
