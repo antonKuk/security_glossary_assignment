@@ -12,6 +12,9 @@ reference: ["Top 5 Identity Verification Methods"](https://www.microbilt.com/new
    To compare user's current transactions with known data about user in order to find possible security warnings and unusual activities. This is used by all banks. Also similar user's online behavior analysis are widely used on many platforms (Facebook, YouTube etc) 
 * ### web security authentication
   CAPTCHA stands for Completely Automated Public Turing Test to Tell Computers and Humans Apart. Good protection against spam, bots or DOS attacks. Question or challenge that computers are unable to deal with and easy to answer for humans, an image or a bunch of distorted letters. Cons: can be annoying and difficult for some people,  consumes your time: 2-3 sec per site. Overall, A CAPTCHA can reduce your website usability and accessibility
+
+* ### Cryptographic Key
+   A string of characters that are used in a cryptographic algorithm, which is necessary for the encryption and decryption of select data. When the data being secured is encrypted, the original data is altered so that it cannot be deciphered by the user until they have the right cryptographic key to decrypt it.
    
 
 
