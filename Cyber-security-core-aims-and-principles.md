@@ -4,4 +4,4 @@
  * **Authentication** - to confirm the identity of the user attempting to access a system or network. This can include unique usernames and passwords required to enter the system, or even bio-metrics for enhanced security.
 * **Accountability** - This is when a system tracks which action was done by which entity so that the client or user cannot easily repudiate their action. In that sense, the user is held accountable for their action on the system. An example of this would be tracing changes on google drive where it can be seen who saved a document where. 
 
-reference: https://pmworldlibrary.net/wp-content/uploads/2017/05/171126-Nweke-Using-CIA-and-AAA-Models-to-explain-Cybersecurity.pdf
+reference: "Using the CIA and AAA Models to Explain Cybersecurity Activities". by: Livinus Obiora Nweke. date: December 2017. website: https://pmworldlibrary.net/wp-content/uploads/2017/05/171126-Nweke-Using-CIA-and-AAA-Models-to-explain-Cybersecurity.pdf
