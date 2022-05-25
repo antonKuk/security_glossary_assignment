@@ -1,4 +1,4 @@
-### web security techniques
+### common web security techniques
 * Reject Unexpected Form Input
 
 * Encode HTML Output
