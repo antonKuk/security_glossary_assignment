@@ -19,3 +19,6 @@ reference: ["Top 5 Identity Verification Methods"](https://www.microbilt.com/new
 * ### Encryption
    Converts data into code. Encryption makes the code impossible to decipher when the data has been converted in the encryption algorithm. The original code needs the right key to decrypt it and convert it back to its original form. 
 
+* ### Keylogger
+   Software that records each keystroke made by the user. This can be used by cybercriminals to obtain user passwords and other information to get access to places that are deemed secure and private.
+   
