@@ -21,4 +21,13 @@ reference: ["Top 5 Identity Verification Methods"](https://www.microbilt.com/new
 
 * ### Keylogger
    Software that records each keystroke made by the user. This can be used by cybercriminals to obtain user passwords and other information to get access to places that are deemed secure and private.
+
+* ### Spyware
+This kind of malware observes the user's activity without the user's awareness. It may be able to monitor the user, collect keystrokes as well as gain access to certain data such as login information, potentially financial data and account information. This is also called data harvesting
+
+* ### Rootkit
+Through this malware, the cybercriminal gains access to remotely control the computer of the user. One reason why this malware is so damaging is that it is hard to detect and may therefore live on your computer for a long time. 
+
+
+
    
