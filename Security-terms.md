@@ -15,6 +15,7 @@ reference: ["Top 5 Identity Verification Methods"](https://www.microbilt.com/new
 
 * ### Cryptographic Key
    A string of characters that are used in a cryptographic algorithm, which is necessary for the encryption and decryption of select data. When the data being secured is encrypted, the original data is altered so that it cannot be deciphered by the user until they have the right cryptographic key to decrypt it.
-   
 
+* ### Encryption
+   Converts data into code. Encryption makes the code impossible to decipher when the data has been converted in the encryption algorithm. The original code needs the right key to decrypt it and convert it back to its original form. 
 
