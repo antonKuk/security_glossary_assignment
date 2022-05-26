@@ -1,7 +1,7 @@
 ## Cyber Security Core Aims
 * **Confidentiality** - to restrict access to users data with no permissions. Any user should have only necessary permissions for his/her scope (same as "never trust user" principle). This implements password strengths checking forms, double authentication, CAPTCHA, out-of-band authentication and more. This can also be limiting permission in software like google drive or HubSpot, where only the relevant sales person can see the contact information of certain clients. 
  * **Integrity** - to make sure that user's data is safe and cannot be changed or deleted by anybody with no permissions. This connects with "simple and clean are more secure" principle. Usually open source systems, combined of small modules (for example Linux or git systems) are more stable and secure than proprietary, bulky and hard to maintain systems. Certain systems only allow admins or the clients themselves to change certain information. Apart from certain people who maintain the database, no one else other than the user may be able to change this data
- * **Availability** - to make data and functionality available to authorized users at any time, 24/7 if possible (for example google platform)
+ * **Availability** - to make data and functionality available to authorized users at any time, 24/7 if possible (for example google platform). Another example could be online banking or any type of email service. 
 
 ## **Cyber Security Principles**
  * **Authentication** - to confirm the identity of the user attempting to access a system or network. This can include unique usernames and passwords required to enter the system, or even bio-metrics for enhanced security.
