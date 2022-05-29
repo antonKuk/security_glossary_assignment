@@ -28,7 +28,7 @@ reference: ["Top 5 Identity Verification Methods"](https://www.microbilt.com/new
 * ### Rootkit
    Through this malware, the cybercriminal gains access to remotely control the computer of the user. One reason why this malware is so damaging is that it is hard to detect and may therefore live on your computer for a long time
 * ### Personal data
-"Any information that can be used directly or indirectly to identify an individual.
+   "Any information that can be used directly or indirectly to identify an individual.
 Examples: names, photos, emails, credit cards details, IP addresses, as well as factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of a natural person."
 
 
