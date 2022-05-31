@@ -42,7 +42,7 @@ reference: ["Top 5 Identity Verification Methods"](https://www.microbilt.com/new
 
   The gatekeeper or filter between network and the outside worldwide net. These network security gatekeepers monitor any traffic passing through the network and block any unwanted traffic based on user-defined rules and policies.
 
-  - ### Identity Security
+- ### Identity Security
 
   It is an identity management that goes beyond access management, granting, managing and securing access based on the principle of least privilege. This measure brings huge advantages by preventing threats to digital identities. One way to achieve identity security is to target users who only have access to the data and resources needed for typical activities - preventing sensitive data from leaking
 
